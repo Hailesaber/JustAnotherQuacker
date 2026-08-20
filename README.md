@@ -11,7 +11,7 @@
 
 ---
 
-### 🧠 About Me!
+### 🧠 About Me
 
 - 👨‍💻 I’m focused on building sleek UIs with modern frontend tools  
 - 🏃 I love walking — clears my mind and inspires my workflow  
